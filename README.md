@@ -6,17 +6,16 @@ Program ini adalah penyelesai persoalan constraint satisfaction untuk permasalah
 
 ### Requirement Program & Instalasi
 
-1. Python 3.9.0 atau lebih baru
-- Python dapat diinstall pada tautan berikut : https://www.python.org/downloads/
+\1. Python 3.9.0 atau lebih baru
+\- Python dapat diinstall pada tautan berikut : https://www.python.org/downloads/
 
 ### Cara Menggunakan Program
 
-1. Masukan persoalan yang ingin diselesaikan oleh program ke dalam file test.txt di dalam folder test (contoh test-case ada pada test1.txt s.d test8.txt), dengan contoh format sebagai berikut:
-
+1. Masukan persoalan yang ingin diselesaikan oleh program ke dalam file test.txt di dalam folder test (contoh test-case ada pada test1.txt s.d test8.txt), dengan contoh format sebagai berikut
 NO
 GUN
 NO+
-------
+\-----
 HUNT
 
 *CATAT bahwa penggantian test-case harus dilakukan melalui perubahan manual dengan mengganti konten dari test.txt
